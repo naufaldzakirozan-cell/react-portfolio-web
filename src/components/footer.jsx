@@ -6,7 +6,7 @@ const Footer = () => {
 
 <div className="flex items-center gap-2">
   <a
-    href="https://www.instagram.com/nopal_dzarky"
+    href="https://www.tiktok.com/@naufaldzakirozan"
     target="_blank"
     rel="noopener noreferrer"
     className="flex items-center gap-2 hover:text-violet-400 transition-all"
