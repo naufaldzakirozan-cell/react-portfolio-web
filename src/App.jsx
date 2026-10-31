@@ -125,7 +125,7 @@ function App() {
             data-aos-delay="300"
             data-aos-once="true"
           >
-            Berikut beberapa tools yang saya pakai untuk mengikuti tutorial ini.
+            Berikut beberapa tools yang saya pakai untuk membuat proyek-proyek saya.
           </p>
 
           <div className="tools-box mt-14 grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">

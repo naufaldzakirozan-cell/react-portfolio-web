@@ -17,8 +17,10 @@ import Tools8 from "/assets/tools/github.png";
 import Tools9 from "/assets/tools/ai.png";
 import Tools10 from "/assets/tools/canva.png";
 import Tools11 from "/assets/tools/figma.png";
-
-export const listTools = [
+import Tools12 from "/assets/tools/after-effects.png";
+import Tools13 from "/assets/tools/inkscape.png";
+import Tools14 from "/assets/tools/blender.png";
+  export const listTools = [
   {
     id: 1,
     gambar: Tools1,
@@ -57,44 +59,65 @@ export const listTools = [
   {
     id: 6,
     gambar: Tools6,
-    nama: "Javascript",
-    ket: "Language",
+    nama: "JavaScript",
+    ket: "Programming Language",
     dad: "600",
   },
   {
     id: 7,
     gambar: Tools7,
     nama: "Node JS",
-    ket: "Javascript Runtime",
+    ket: "JavaScript Runtime",
     dad: "700",
   },
   {
     id: 8,
     gambar: Tools8,
-    nama: "Github",
-    ket: "Repository",
+    nama: "GitHub",
+    ket: "Code Repository",
     dad: "800",
   },
   {
     id: 9,
     gambar: Tools9,
     nama: "Adobe Illustrator",
-    ket: "Design App",
+    ket: "Graphic Design",
     dad: "900",
   },
   {
     id: 10,
     gambar: Tools10,
     nama: "Canva",
-    ket: "Design App",
+    ket: "Graphic Design",
     dad: "1000",
   },
   {
     id: 11,
     gambar: Tools11,
     nama: "Figma",
-    ket: "Design App",
+    ket: "UI/UX Design",
     dad: "1100",
+  },
+  {
+    id: 12,
+    gambar: Tools12,
+    nama: "Adobe After Effects",
+    ket: "Motion Graphics",
+    dad: "1200",
+  },
+  {
+    id: 13,
+    gambar: Tools13,
+    nama: "Inkscape",
+    ket: "Vector Design",
+    dad: "1300",
+  },
+  {
+    id: 14,
+    gambar: Tools14,
+    nama: "Blender",
+    ket: "3D Modeling",
+    dad: "1400",
   },
 ];
 
