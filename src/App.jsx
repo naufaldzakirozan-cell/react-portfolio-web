@@ -23,10 +23,10 @@ function App() {
           </h1>
 
           <p className="mb-6 text-base/loose opacity-50">
-            Saya mempunyai ketertarikan dalam bidang Programming dan Designer,
-            terutama pada pembuatan Website dan Desain seperti Poster, Pamflet
-            serta Banner, ketertarikan pada bidang ini sudah berlangsung lebih
-            dari 2 Tahun untuk semua Bidang.
+            Saya memiliki minat besar dalam dunia teknologi dan desain kreatif.
+            Saya senang mempelajari pemrograman, khususnya pengembangan website, serta membuat berbagai karya desain visual seperti poster, 3D Modelling, dan banner. 
+            Saya sangat tertarik pada bidang ini sejak saya kelas 6 SD.
+            saya terus mengembangkan kemampuan dan mengeksplorasi ide-ide baru di bidang tersebut .
           </p>
 
           <div className="flex items-center gap-2 sm:gap-4">
@@ -75,11 +75,9 @@ function App() {
           />
 
           <p className="mb-10 text-base/loose">
-            Hi, perkenalkan saya Naufal Dzaki Rozan, seorang Full Stack Web Developer
-            dan Designer untuk UI/UX Design maupun Product Digital. Saya percaya
-            bahwa desain dan fungsionalitas harus berjalan beriringan, sehingga
-            setiap proyek yang saya kembangkan tidak hanya terlihat menarik
-            tetapi juga memberikan pengalaman pengguna yang optimal.
+            Hi, perkenalkan saya Naufal Dzaki Rozan, seorang Designer Pemula yang memiliki ketertarikan dalam dunia desain kreatif, khususnya desain grafis.
+            Saya senang mengeksplorasi ide, mempelajari hal-hal baru, serta mengembangkan kemampuan dalam menciptakan desain yang menarik, kreatif, dan fungsional.
+            Saya lahir dan tinggal di Bulu,Sukoharjo,Jawa Tengah 
           </p>
 
           <div className="flex items-center justify-between">
